@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "title": "Neutrogena",
+      "price": 79.99,
+      "image": "https://cdn.shopify.com/s/files/1/0509/7550/6593/files/Neutrogena_banner_Webp.webp?v=1724168330"
+    },
+    {
+      "id": 2,
+      "title": "CeraVe",
+      "price": 89.99,
+      "image": "https://cdn.shopify.com/s/files/1/0509/7550/6593/files/Cerave_New_Banner_Webp.webp?v=1724168307"
+    },
+    {
+      "id": 3,
+      "title": "Age Miracle Crème",
+      "price": 120.00,
+      "image": "https://www.mkcosmetics.com.pk/cdn/shop/files/3_a55e8604-dc7f-45e3-a6b3-1b37f0295de4_800x.jpg?v=1716804154"
+    },
+    {
+      "id": 4,
+      "title": "Multi-Action",
+      "price": 65.00,
+      "image": "https://www.mkcosmetics.com.pk/cdn/shop/files/1_b436c437-6f9e-4ff7-bd5b-e7539da06262_800x.jpg?v=1712400298"
+    },
+    {
+      "id": 5,
+      "title": "Brightening Face",
+      "price": 105.00,
+      "image": "https://www.mkcosmetics.com.pk/cdn/shop/files/5_0c4f2cc5-72ce-4fe4-8269-803d4580f22a_800x.jpg?v=1712400489"
+    }
+  ]
+  
